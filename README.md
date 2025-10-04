@@ -6,7 +6,7 @@ Workflow ini dibuat untuk mengekstrak tabel dari file PDF yang dikirim melalui T
 Proses ini mempermudah konversi data dari dokumen PDF ke format data terstruktur (CSV) secara otomatis, tanpa perlu coding manual.
 ----
 ## 🧩 Workflow Screenshot
-![Workflow Screenshot](https://github.com/nurazlina-4/ECC-NIN-ChatAgent-Nurazlina-Batch_10/blob/main/Screen%20Shot%20workflow.png)
+![Workflow Screenshot](https://github.com/nurazlina-4/ECC-NIN-ChatAgent-Nurazlina-Batch_10/blob/main/workflow.png)
 ----
 ### Cara Kerja Workflow
 1. Pemicu (Trigger)
