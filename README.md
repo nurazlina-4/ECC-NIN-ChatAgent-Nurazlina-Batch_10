@@ -5,6 +5,9 @@
 Workflow ini dibuat untuk mengekstrak tabel dari file PDF yang dikirim melalui Telegram, memproses isinya menggunakan Google Gemini AI, lalu mengonversinya menjadi file CSV dan mengirimkannya kembali ke pengguna lewat Telegram.
 Proses ini mempermudah konversi data dari dokumen PDF ke format data terstruktur (CSV) secara otomatis, tanpa perlu coding manual.
 ----
+## 🧩 Workflow Screenshot
+![Workflow Screenshot](https://github.com/nurazlina-4/ECC-NIN-ChatAgent-Nurazlina-Batch_10/blob/main/Screen%20Shot%20workflow.png)
+----
 ### Cara Kerja Workflow
 1. Pemicu (Trigger)
 Telegram Trigger
