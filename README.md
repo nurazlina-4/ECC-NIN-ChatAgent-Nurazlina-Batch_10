@@ -58,13 +58,14 @@ Membersihkan data agar mudah diubah ke CSV.
 Send a Document (Telegram)
 Mengirimkan kembali hasil konversi (file CSV) ke pengguna di Telegram.
 Pengguna akan menerima file dengan pesan otomatis seperti pada gambar berikut:
+![Chatbot Screenshot](https://github.com/nurazlina-4/ECC-NIN-ChatAgent-Nurazlina-Batch_10/blob/main/chatbot.jpeg)
 
 ----
 ### 📌 Contoh Alur Kerja Singkat
-Kamu kirim file PDF ke bot Telegram.
-Bot otomatis menjalankan workflow.
-AI membaca dan mengekstrak tabel di PDF.
-File hasil konversi dikirim balik ke Telegram dalam format .csv.
+1. Kamu kirim file PDF ke bot Telegram.
+2. Bot otomatis menjalankan workflow.
+3. AI membaca dan mengekstrak tabel di PDF.
+4. File hasil konversi dikirim balik ke Telegram dalam format .csv.
 ----
 ### Catatan
 Workflow ini berjalan secara event-based — artinya hanya aktif saat ada pesan baru ke bot.
