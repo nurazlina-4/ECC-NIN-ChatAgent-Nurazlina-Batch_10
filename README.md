@@ -3,7 +3,7 @@
 ## Extract PDF Table Workflow (n8n)
 ----
 Workflow ini dibuat untuk mengekstrak tabel dari file PDF yang dikirim melalui Telegram, memproses isinya menggunakan Google Gemini AI, lalu mengonversinya menjadi file CSV dan mengirimkannya kembali ke pengguna lewat Telegram.
-Proses ini mempermudah konversi data dari dokumen PDF ke format data terstruktur (CSV) secara otomatis, tanpa perlu coding manual.
+Proses ini mempermudah konversi data dari dokumen PDF ke format data terstruktur (CSV) secara otomatis, tanpa perlu coding manual. Ini adalah versi 1.0 dari proyek yang ingin dikembangkan. Berikutnya akan dibuat versi 2.0 yang dapat dengan cerdas mengolah, menganalisis, dan berinteraksi dengan data dalam file PDF melalui Telegram, dengan bantuan Google Gemini AI.
 ----
 ## 🧩 Workflow Screenshot
 ![Workflow Screenshot](https://github.com/nurazlina-4/ECC-NIN-ChatAgent-Nurazlina-Batch_10/blob/main/workflow.png)
